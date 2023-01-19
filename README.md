@@ -3,4 +3,5 @@ A 3D printed mounting to attach the Meta Quest 2 Touch Controller to an HTC Vive
 
 https://github.com/CarolinStellmacher/MetaQuestTouchController2_Mounting/blob/main/Mounting.blend
 
-https://github.com/CarolinStellmacher/MetaQuestTouchController2_Mounting/blob/main/Mounting.PNG
+![Alt text]([/posts/path/to/img.jpg](https://github.com/CarolinStellmacher/MetaQuestTouchController2_Mounting/blob/main/Mounting.PNG))
+
